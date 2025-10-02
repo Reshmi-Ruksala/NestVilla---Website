@@ -1,0 +1,23 @@
+# Villa Images Placeholder
+
+This directory should contain the villa images referenced in the villa data.
+
+## Expected Images:
+
+### Mangrove Nest:
+- mangrove-nest-1.jpg (Main exterior view)
+- mangrove-nest-2.jpg (Pool area)
+- mangrove-nest-3.jpg (Living room)
+- mangrove-nest-4.jpg (Bedroom)
+- mangrove-nest-5.jpg (Mangrove view)
+
+### Cozy Nest:
+- cozy-nest-1.jpg (Main exterior view)
+- cozy-nest-2.jpg (Garden area)
+- cozy-nest-3.jpg (Living room)
+- cozy-nest-4.jpg (Bedroom)
+- cozy-nest-5.jpg (Hot tub area)
+
+## Note:
+Currently using placeholder images from /api/placeholder service.
+Replace with actual villa photos for production use.

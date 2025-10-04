@@ -119,3 +119,4 @@ router.get('/:slug/amenities', (req, res) => {
 });
 
 module.exports = router;
+

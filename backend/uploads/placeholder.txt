@@ -21,3 +21,4 @@ This directory should contain the villa images referenced in the villa data.
 ## Note:
 Currently using placeholder images from /api/placeholder service.
 Replace with actual villa photos for production use.
+

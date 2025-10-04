@@ -96,3 +96,4 @@ Once you follow these steps, your beautiful villa photos will appear throughout 
 ---
 
 **Need help?** The photos should appear immediately after adding them to the correct folders with the right names.
+
